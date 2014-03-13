@@ -25,6 +25,9 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
+### 0.1.1 - 13 Mar 2014
+- Transfer the repo to Widen
+
 ### 0.1.0 - 1 Nov 2013
 - Initial public release
 
