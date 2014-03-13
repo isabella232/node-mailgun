@@ -25,7 +25,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Release History
 
-### 0.0.1 - 1 Nov 2013
+### 0.1.0 - 1 Nov 2013
 - Initial public release
 
 ## License
